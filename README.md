@@ -13,3 +13,6 @@ To compile and run the program, use the following commands in a terminal:
 ```bash
 gcc -o pdb_reader Lecture_fichier_pdb_en_C.c
 ./pdb_reader 3eam.pdb
+
+Author
+Mélina Farshchi 
